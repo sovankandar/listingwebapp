@@ -4,7 +4,8 @@ import { useState, useEffect } from "react"
 import MainLayout from "./components/Layout/MainLayout"
 import DeviceList from "./components/DeviceList/DeviceList"
 import FilterSidebar from "./components/FilterSidebar/FilterSidebar"
-import { devices as deviceData } from "./lib/listing_data.json"
+import deviceData from "./lib/listing_data.json"
+import { filterDevices } from "./lib/filter-utils"
 import "./App.css"
 
 export default function App() {
@@ -38,7 +39,7 @@ export default function App() {
   }, [])
 
   const loadMore = () => {
-    setVisibleDevices((prev) => Math.min(prev + 8, deviceData.length))
+    setVisibleDevices((prev) => Math.min(prev + 8, deviceData.devices.length))
   }
 
   const toggleSidebar = () => {
@@ -91,7 +92,7 @@ export default function App() {
         {isMobile && sidebarOpen && <div className="sidebar-overlay" onClick={toggleSidebar}></div>}
 
         <DeviceList
-          devices={deviceData}
+          devices={filterDevices(deviceData.devices, filters)}
           visibleDevices={visibleDevices}
           loadMore={loadMore}
           sidebarOpen={sidebarOpen}

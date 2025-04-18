@@ -21,7 +21,9 @@
       "transactionType": "Rent/Lease",
       "price": 1500,
       "currency": "USD",
-      "unit": "Per Unit"
+      "unit": "Per Unit",
+      "warranty": "Yes",
+      "shipping": "Free shipping"
     },
     {
       "id": "2",
@@ -44,7 +46,9 @@
       "transactionType": "Sale",
       "price": 75000,
       "currency": "USD",
-      "unit": "Per Unit"
+      "unit": "Per Unit",
+      "warranty": "No",
+      "shipping": "Paid shipping"
     },
     {
       "id": "3",
@@ -67,7 +71,9 @@
       "transactionType": "Sale",
       "price": 12500,
       "currency": "USD",
-      "unit": "Per Unit"
+      "unit": "Per Unit",
+      "warranty": "No",
+      "shipping": "Paid shipping"
     },
     {
       "id": "4",
@@ -90,7 +96,9 @@
       "transactionType": "Rent/Lease",
       "price": 500,
       "currency": "USD",
-      "unit": "Per Month"
+      "unit": "Per Month",
+      "warranty": "Yes",
+      "shipping": "Paid shipping"
     },
     {
       "id": "5",
@@ -113,7 +121,9 @@
       "transactionType": "Sale",
       "price": 250000,
       "currency": "USD",
-      "unit": "Per Unit"
+      "unit": "Per Unit",
+      "warranty": "No",
+      "shipping": "Free shipping"
     },
     {
       "id": "6",
@@ -136,7 +146,9 @@
       "transactionType": "Sale",
       "price": 75000,
       "currency": "USD",
-      "unit": "Per Unit"
+      "unit": "Per Unit",
+      "warranty": "Yes",
+      "shipping": "Paid shipping"
     },
     {
       "id": "7",
@@ -159,7 +171,9 @@
       "transactionType": "Sale",
       "price": 12500,
       "currency": "USD",
-      "unit": "Per Unit"
+      "unit": "Per Unit",
+      "warranty": "No",
+      "shipping": "Free shipping"
     },
     {
       "id": "8",
@@ -182,7 +196,9 @@
       "transactionType": "Rent/Lease",
       "price": 1500,
       "currency": "USD",
-      "unit": "Per Unit"
+      "unit": "Per Unit",
+      "warranty": "Yes",
+      "shipping": "Paid shipping"
     },
     {
       "id": "9",
@@ -205,7 +221,9 @@
       "transactionType": "Sale",
       "price": 250000,
       "currency": "USD",
-      "unit": "Per Unit"
+      "unit": "Per Unit",
+      "warranty": "Yes",
+      "shipping": "Paid shipping"
     },
     {
       "id": "10",
@@ -228,7 +246,9 @@
       "transactionType": "Sale",
       "price": 75000,
       "currency": "USD",
-      "unit": "Per Unit"
+      "unit": "Per Unit",
+      "warranty": "No",
+      "shipping": "Free shipping"
     }
   ]
 }
