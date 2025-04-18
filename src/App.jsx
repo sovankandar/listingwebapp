@@ -4,7 +4,7 @@ import { useState, useEffect } from "react"
 import MainLayout from "./components/Layout/MainLayout"
 import DeviceList from "./components/DeviceList/DeviceList"
 import FilterSidebar from "./components/FilterSidebar/FilterSidebar"
-import { deviceData } from "./lib/data"
+import { devices as deviceData } from "./lib/listing_data.json"
 import "./App.css"
 
 export default function App() {

@@ -1,0 +1,234 @@
+{
+  "devices": [
+    {
+      "id": "1",
+      "title": "PRE-OWNED / USED / CURRENTLY DE-INSTALLED 1991 11 HEALTH 4112...",
+      "image": "https://s3.us-east-2.amazonaws.com/asset.gerator/images/1744278411760-W5a9kxgw7Z.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZMT7BJM2SERREFR7%2F20250418%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250418T073848Z&X-Amz-Expires=3600&X-Amz-Signature=81d145e47cb7b841384114b51624b7a5cad0b8fad8be4b8c02ad9d1fbfa77e02&X-Amz-SignedHeaders=host&x-id=GetObject",
+      "status": "Published",
+      "location": "Cedar Court, Bolivar",
+      "date": "April 10, 2025",
+      "tags": [
+        "1/25-DIHYDROXY VITAMIN D3",
+        "11 HEALTH",
+        "Anesthesiology / Resusciation"
+      ],
+      "seller": {
+        "name": "Frank Lewis",
+        "title": "Neural Engineering Researcher",
+        "avatar": "https://s3.us-east-2.amazonaws.com/asset.gerator/images/1741623857069-lmDV9aUyHv.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZMT7BJM2SERREFR7%2F20250418%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250418T073848Z&X-Amz-Expires=3600&X-Amz-Signature=8c7e40880fb8a93aa5ef9d6aac52c3d0749399beed43a93a011e126079b745c6&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "link": "#"
+      },
+      "transactionType": "Rent/Lease",
+      "price": 1500,
+      "currency": "USD",
+      "unit": "Per Unit"
+    },
+    {
+      "id": "2",
+      "title": "NEW 2024 MEDICAL IMAGING SYSTEM WITH ADVANCED DIAGNOSTICS",
+      "image": "https://s3.us-east-2.amazonaws.com/asset.gerator/images/1742558414283-KER43bpBeo.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZMT7BJM2SERREFR7%2F20250418%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250418T073848Z&X-Amz-Expires=3600&X-Amz-Signature=d583d591759d9eba73ede3ee3c5de2057bb251738ca2546fb20d79db36145f08&X-Amz-SignedHeaders=host&x-id=GetObject",
+      "status": "New",
+      "location": "Medical Center, Houston",
+      "date": "March 15, 2025",
+      "tags": [
+        "Imaging",
+        "Diagnostics",
+        "Radiology"
+      ],
+      "seller": {
+        "name": "Sarah Johnson",
+        "title": "Medical Equipment Specialist",
+        "avatar": "https://s3.us-east-2.amazonaws.com/asset.gerator/images/1741685453252-sToyH51RxO.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZMT7BJM2SERREFR7%2F20250418%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250418T073848Z&X-Amz-Expires=3600&X-Amz-Signature=44a085e771c603240e062666f7eeeec1c721b9aa45df0adf09c5b6841dbab384&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "link": "#"
+      },
+      "transactionType": "Sale",
+      "price": 75000,
+      "currency": "USD",
+      "unit": "Per Unit"
+    },
+    {
+      "id": "3",
+      "title": "NEW 2024 VARIAN ASSOCIATES 41120 CENTRALIZED PATIENT MONITOR FOR RENT/LEASE",
+      "image": "https://s3.us-east-2.amazonaws.com/asset.gerator/images/1742557999009-1NtiIoyRN7.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZMT7BJM2SERREFR7%2F20250418%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250418T073848Z&X-Amz-Expires=3600&X-Amz-Signature=2e46437913c7fa7b0b25f9e19811e86c1acce6921fe2ec3f9cb293c8b361552a&X-Amz-SignedHeaders=host&x-id=GetObject",
+      "status": "Refurbished",
+      "location": "Memorial Hospital, Chicago",
+      "date": "February 28, 2025",
+      "tags": [
+        "Patient Monitoring",
+        "ICU",
+        "Cardiologys"
+      ],
+      "seller": {
+        "name": "Michael Chen",
+        "title": "Hospital Equipment Manager",
+        "avatar": "https://s3.us-east-2.amazonaws.com/asset.gerator/images/1741685453252-sToyH51RxO.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZMT7BJM2SERREFR7%2F20250418%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250418T073848Z&X-Amz-Expires=3600&X-Amz-Signature=44a085e771c603240e062666f7eeeec1c721b9aa45df0adf09c5b6841dbab384&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "link": "#"
+      },
+      "transactionType": "Sale",
+      "price": 12500,
+      "currency": "USD",
+      "unit": "Per Unit"
+    },
+    {
+      "id": "4",
+      "title": "PORTABLE ULTRASOUND MACHINE - LIGHTLY USED - EXCELLENT CONDITION",
+      "image": "https://s3.us-east-2.amazonaws.com/asset.gerator/images/1742557504977-fxvbXJoksC.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZMT7BJM2SERREFR7%2F20250418%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250418T073848Z&X-Amz-Expires=3600&X-Amz-Signature=b235b4722dd612bc1a3111136cbf990fd5687733558f5e8ae7b4695e91009e3e&X-Amz-SignedHeaders=host&x-id=GetObject",
+      "status": "Pre-owned",
+      "location": "Private Practice, Seattle",
+      "date": "January 10, 2025",
+      "tags": [
+        "Ultrasound",
+        "Portable",
+        "Imaging"
+      ],
+      "seller": {
+        "name": "Emily Rodriguez",
+        "title": "Medical Practice Administrator",
+        "avatar": "https://s3.us-east-2.amazonaws.com/asset.gerator/images/1741623084565-V5XpXCgiVa.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZMT7BJM2SERREFR7%2F20250418%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250418T074253Z&X-Amz-Expires=3600&X-Amz-Signature=09a8ef335e4c26dd0dc83775a6613d7ca29b72dccb5ab71b084f1c1f6557fecf&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "link": "#"
+      },
+      "transactionType": "Rent/Lease",
+      "price": 500,
+      "currency": "USD",
+      "unit": "Per Month"
+    },
+    {
+      "id": "5",
+      "title": "SURGICAL ROBOT SYSTEM - DEMONSTRATION MODEL - NEVER USED IN SURGERY",
+      "image": "https://s3.us-east-2.amazonaws.com/asset.gerator/images/1742490740164-bls2sxFKBq.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZMT7BJM2SERREFR7%2F20250418%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250418T074253Z&X-Amz-Expires=3600&X-Amz-Signature=ce65a369b5f681075b779e6590950c58a1f85e5722138e035fbae7dbf42d788b&X-Amz-SignedHeaders=host&x-id=GetObject",
+      "status": "New",
+      "location": "Medical Technology Center, Boston",
+      "date": "December 5, 2024",
+      "tags": [
+        "Surgical",
+        "Robotics",
+        "Minimally Invasive"
+      ],
+      "seller": {
+        "name": "David Kim",
+        "title": "Surgical Technology Consultant",
+        "avatar": "https://s3.us-east-2.amazonaws.com/asset.gerator/images/1741629457170-lMFx1EZrzs.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZMT7BJM2SERREFR7%2F20250418%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250418T074335Z&X-Amz-Expires=3600&X-Amz-Signature=b59acc9f74807fc9e03e0fbbb4d1a2e23518047aaf5096c3e7e69a599830968b&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "link": "#"
+      },
+      "transactionType": "Sale",
+      "price": 250000,
+      "currency": "USD",
+      "unit": "Per Unit"
+    },
+    {
+      "id": "6",
+      "title": "NEW 2024 MEDICAL IMAGING SYSTEM WITH ADVANCED DIAGNOSTICS",
+      "image": "https://s3.us-east-2.amazonaws.com/asset.gerator/images/1742554828071-kLrNkO8tZu.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZMT7BJM2SERREFR7%2F20250418%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250418T080214Z&X-Amz-Expires=3600&X-Amz-Signature=a68d67d9dfc566a8dc204b25174ede195522aa85d278097c10a8dbd4aff0b33f&X-Amz-SignedHeaders=host&x-id=GetObject",
+      "status": "New",
+      "location": "Medical Center, Houston",
+      "date": "March 15, 2025",
+      "tags": [
+        "Imaging",
+        "Diagnostics",
+        "Radiology"
+      ],
+      "seller": {
+        "name": "Sarah Johnson",
+        "title": "Medical Equipment Specialist",
+        "avatar": "https://s3.us-east-2.amazonaws.com/asset.gerator/images/1741685453252-sToyH51RxO.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZMT7BJM2SERREFR7%2F20250418%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250418T073848Z&X-Amz-Expires=3600&X-Amz-Signature=44a085e771c603240e062666f7eeeec1c721b9aa45df0adf09c5b6841dbab384&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "link": "#"
+      },
+      "transactionType": "Sale",
+      "price": 75000,
+      "currency": "USD",
+      "unit": "Per Unit"
+    },
+    {
+      "id": "7",
+      "title": "NEW 2024 VARIAN ASSOCIATES 41120 CENTRALIZED PATIENT MONITOR FOR RENT/LEASE",
+      "image": "https://s3.us-east-2.amazonaws.com/asset.gerator/images/1742493213115-zFeMJdGFRP.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZMT7BJM2SERREFR7%2F20250418%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250418T080214Z&X-Amz-Expires=3600&X-Amz-Signature=130b2fef347d3a6e13583e8d80be12371a8bb05f018a3fad087b1fac9e46bf86&X-Amz-SignedHeaders=host&x-id=GetObject",
+      "status": "Refurbished",
+      "location": "Memorial Hospital, Chicago",
+      "date": "February 28, 2025",
+      "tags": [
+        "Patient Monitoring",
+        "ICU",
+        "Cardiology"
+      ],
+      "seller": {
+        "name": "Michael Chen",
+        "title": "Hospital Equipment Manager",
+        "avatar": "https://s3.us-east-2.amazonaws.com/asset.gerator/images/1741685453252-sToyH51RxO.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZMT7BJM2SERREFR7%2F20250418%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250418T073848Z&X-Amz-Expires=3600&X-Amz-Signature=44a085e771c603240e062666f7eeeec1c721b9aa45df0adf09c5b6841dbab384&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "link": "#"
+      },
+      "transactionType": "Sale",
+      "price": 12500,
+      "currency": "USD",
+      "unit": "Per Unit"
+    },
+    {
+      "id": "8",
+      "title": "PRE-OWNED / USED / CURRENTLY DE-INSTALLED 1991 11 HEALTH 4112...",
+      "image": "https://s3.us-east-2.amazonaws.com/asset.gerator/images/1744278411760-W5a9kxgw7Z.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZMT7BJM2SERREFR7%2F20250418%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250418T073848Z&X-Amz-Expires=3600&X-Amz-Signature=81d145e47cb7b841384114b51624b7a5cad0b8fad8be4b8c02ad9d1fbfa77e02&X-Amz-SignedHeaders=host&x-id=GetObject",
+      "status": "Published",
+      "location": "Cedar Court, Bolivar",
+      "date": "April 10, 2025",
+      "tags": [
+        "1/25-DIHYDROXY VITAMIN D3",
+        "11 HEALTH",
+        "Anesthesiology / Resusciation"
+      ],
+      "seller": {
+        "name": "Frank Lewis",
+        "title": "Neural Engineering Researcher",
+        "avatar": "https://s3.us-east-2.amazonaws.com/asset.gerator/images/1741623857069-lmDV9aUyHv.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZMT7BJM2SERREFR7%2F20250418%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250418T073848Z&X-Amz-Expires=3600&X-Amz-Signature=8c7e40880fb8a93aa5ef9d6aac52c3d0749399beed43a93a011e126079b745c6&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "link": "#"
+      },
+      "transactionType": "Rent/Lease",
+      "price": 1500,
+      "currency": "USD",
+      "unit": "Per Unit"
+    },
+    {
+      "id": "9",
+      "title": "SURGICAL ROBOT SYSTEM - DEMONSTRATION MODEL - NEVER USED IN SURGERY",
+      "image": "https://s3.us-east-2.amazonaws.com/asset.gerator/images/1742190980172-8ve49IrnYX.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZMT7BJM2SERREFR7%2F20250418%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250418T081418Z&X-Amz-Expires=3600&X-Amz-Signature=59ecec9e9d8efaf379805203b54e2ea7b329375243f942a93984a65e4e8f08cb&X-Amz-SignedHeaders=host&x-id=GetObject",
+      "status": "New",
+      "location": "Medical Technology Center, Boston",
+      "date": "December 5, 2024",
+      "tags": [
+        "Surgical",
+        "Robotics",
+        "Minimally Invasive"
+      ],
+      "seller": {
+        "name": "David Kim",
+        "title": "Surgical Technology Consultant",
+        "avatar": "https://s3.us-east-2.amazonaws.com/asset.gerator/images/1741620508331-VQgEldOKaT.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZMT7BJM2SERREFR7%2F20250418%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250418T081418Z&X-Amz-Expires=3600&X-Amz-Signature=94ca0ae59c6a42c92e95337cbb72a9692703344b497153fe097bd8140423a98b&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "link": "#"
+      },
+      "transactionType": "Sale",
+      "price": 250000,
+      "currency": "USD",
+      "unit": "Per Unit"
+    },
+    {
+      "id": "10",
+      "title": "NEW 2024 MEDICAL IMAGING SYSTEM WITH ADVANCED DIAGNOSTICS",
+      "image": "https://s3.us-east-2.amazonaws.com/asset.gerator/images/1742401032654-eZlPUbrG7u.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZMT7BJM2SERREFR7%2F20250418%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250418T081418Z&X-Amz-Expires=3600&X-Amz-Signature=3bbaf0f7758f6a904d014626e5e2ab5d567bac035face9e0f200630f3f4cef3c&X-Amz-SignedHeaders=host&x-id=GetObject",
+      "status": "New",
+      "location": "Medical Center, Houston",
+      "date": "March 15, 2025",
+      "tags": [
+        "Imaging",
+        "Diagnostics",
+        "Radiology"
+      ],
+      "seller": {
+        "name": "Sarah Johnson",
+        "title": "Medical Equipment Specialist",
+        "avatar": "https://s3.us-east-2.amazonaws.com/asset.gerator/images/1741628027318-b52RzVEk0E.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZMT7BJM2SERREFR7%2F20250418%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20250418T081418Z&X-Amz-Expires=3600&X-Amz-Signature=cee97ba2acb0a580e077b20481d55edfc36daf9b2e72d4c8f86009530258b487&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "link": "#"
+      },
+      "transactionType": "Sale",
+      "price": 75000,
+      "currency": "USD",
+      "unit": "Per Unit"
+    }
+  ]
+}
